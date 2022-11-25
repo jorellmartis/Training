@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-snap-type: y mandatory;
+
+}
+body{
+    overflow: auto;
+}
+section{
+
+}
+.container-1{
+    width: 100vw;
+    height: 100vh;
+    background-color: aquamarine;
+    text-align: center;
+    scroll-snap-align: end;
+}
+.container-2{
+    width: 100vw;
+    height: 100vh;
+    background-color: goldenrod;
+    scroll-snap-align: end;
+
+}
+.container-3{
+    width: 100vw;
+    height: 100vh;
+    background-color: royalblue;
+    scroll-snap-align: end;
+
+}
