@@ -16,16 +16,18 @@ let Scrollanim = gsap.timeline({
     })
     Scrollanim.to('.anim-loader',
     {
+    opacity: 0.6,
     scale : 10,
     })
     Scrollanim.to('.anim-loader',
     {
+    opacity: 0.3,
     scale : 20,
     })
 
     Scrollanim.to('.anim-loader',
     {
-    opacity: 0
+    opacity: 0,
     })
 
 let sections = gsap.utils.toArray(".horiz");

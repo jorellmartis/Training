@@ -1,0 +1,57 @@
+{
+  "Global": {
+    "SiteTitle": "MOCAVerse!"
+  },
+  "Sidebar": {
+    "Dashboard": "Dashboard",
+    "eServices": "Services",
+    "Announcements": "Announcements",
+    "Events": "Events",
+    "KnowledgeHub": "Knowledge Hub",
+    "Insights": "Insights",
+    "Entities": "Entities/Offices",
+    "Initiatives": "Initiatives",
+    "HelpCenter": "Help Center",
+    "Services": {
+      "Applications": "Applications",
+      "AllServices": "All Services",
+      "Policies": "Policies"
+    }
+  },
+  "Rightbar": {
+    "MyFeatured": "My Featured",
+    "Services": "Services",
+    "RecentServices": "Recent Services",
+    "Empty": "Nothing to display",
+    "Contacts": "My Contacts",
+    "Announcements": "Announcements"
+  },
+  "Dashboard": {
+    "GreetingMorning": "Good morning, {{name}}!",
+    "ServiceStatus": "My Service Status",
+    "HappeningNow": "Whats happening now..",
+    "AllEvents": "All Events",
+    "LearnMore": "Learn More",
+    "NewServicesMOCA": "New Services on Moca"
+  },
+
+  "Services": {
+    "AllServices": "All Services",
+    "FeaturedServices": {
+      "TabTitle": "My Featured Services",
+      "SearchPlaceholder": "What you are looking for...",
+      "Type": "Type",
+      "SubType": "Sub Type",
+      "Sort": "Sort",
+      "FeaturedServices": "Featured Services"
+    },
+    "TrendingServices": "Trending Services"
+  },
+
+  "EmployeeDirectory": {
+    "SidebarTitle": "Employee Directory",
+    "AllEmployees": "All Employees",
+    "HappyMoments": "Happy Moments",
+    "Diagram": "All Employees Diagram"
+  }
+}

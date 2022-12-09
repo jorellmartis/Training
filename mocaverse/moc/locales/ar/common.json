@@ -1,0 +1,32 @@
+{
+  "Global": {
+    "SiteTitle": "MOCAVerse!"
+  },
+  "Sidebar": {
+    "Dashboard": "Dashboard",
+    "Services": "Services",
+    "Announcements": "Announcements",
+    "Events": "Events",
+    "KnowledgeHub": "Knowledge Hub",
+    "Insights": "Insights",
+    "Entities": "Entities/Offices",
+    "EmployeeDirectory": "Employee Directory",
+    "Initiatives": "Initiatives",
+    "HelpCenter": "Help Center"
+  },
+  "Rightbar": {
+    "MyFeatured": "My Featured",
+    "Services": "Services",
+    "RecentServices": "Recent Services",
+    "Empty": "Nothing to display",
+    "Contacts": "My Contacts"
+  },
+  "Dashboard": {
+    "GreetingMorning": "Good morning, {{name}}!",
+    "ServiceStatus": "My Service Status",
+    "HappeningNow": "Whats happening now..",
+    "AllEvents": "All Events",
+    "LearnMore": "Learn More",
+    "NewServicesMOCA": "New Services on Moca"
+  }
+}
